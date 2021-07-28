@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### I am Md Faizal Karim, pursuing my B.Tech in Computer Science and Engineering from National Institute of Technology, Silchar.
-#### I am interested in 
+### I am interested in
 * <b>ML/DL </b>
 * <b>Game Development</b> : Unity
 * <b>Creative coding</b> : Processing
