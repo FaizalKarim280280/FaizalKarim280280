@@ -1,5 +1,10 @@
-### Hi there 👋
-
+## Hi there 👋
+### I am Md Faizal Karim, pursuing my B.Tech in Computer Science and Engineering from National Institute of Technology, Silchar.
+#### I am interested in 
+* <b>ML/DL </b>
+* <b>Game Development</b> : Unity
+* <b>Creative coding</b> : Processing
+* <b>Mathematics</b> : Linear Algebra, Multivariable Calculus, Recreational Mathematics 
 <!--
 **FaizalKarim280280/FaizalKarim280280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
