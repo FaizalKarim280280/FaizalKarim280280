@@ -4,7 +4,7 @@
 * <b>ML/DL </b>
 * <b>Game Development</b> : Unity
 * <b>Creative coding</b> : Processing
-* <b>Mathematics</b> : Linear Algebra, Multivariable Calculus, Recreational Mathematics 
+* <b>Mathematics</b> : Linear Algebra, Multivariable Calculus, Chaos Theory. 
 <!--
 **FaizalKarim280280/FaizalKarim280280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
